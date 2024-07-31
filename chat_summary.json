@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dropdown menus under navlinks for sub-categories\", \"checked\": true}, {\"feature\": \"Search bar in the navbar for quick blockchain searches\", \"checked\": true}, {\"feature\": \"User login/logout button on the navbar\", \"checked\": false}, {\"feature\": \"Real-time blockchain status indicator in the navbar\", \"checked\": true}, {\"feature\": \"Responsive design for the navbar on mobile devices\", \"checked\": true}, {\"feature\": \"Dark/Light mode toggle on the navbar\", \"checked\": false}], \"input_token_count\": 220, \"output_token_count\": 109, \"time_taken\": \"0:00:04.602451\"}",
         "timestamp": "31072024090430",
         "message_id": "guest31072024090425"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the screen as the user scrolls, or should it only appear at the top of the page?\", \"option1\": \"Fixed at the top of the screen\", \"option2\": \"Appear only at the top of the page\"}, {\"question 2\": \"Do you have a specific design theme or color scheme in mind for the navbar to match the overall aesthetic of the app?\", \"option1\": \"Yes, I have specific colors/theme in mind\", \"option2\": \"No, please propose a design that fits the current app aesthetics\"}], \"input_token_count\": 266, \"output_token_count\": 135, \"time_taken\": \"0:00:05.851884\"}",
+        "timestamp": "31072024090432",
+        "message_id": "guest31072024090425"
     }
 ]
